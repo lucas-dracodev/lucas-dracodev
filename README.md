@@ -31,6 +31,7 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="googlecloud" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br><br>
@@ -42,9 +43,6 @@ Pesquisador independente em psicanálise, ética aplicada e inteligência artifi
   </a>
   <a href="https://github.com/dedeus-lucas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://x.com/lucas_dracodev" target="_blank">
-    <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://bsky.app/profile/lucas-dracodev.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/-BlueSky-0285FF?style=for-the-badge&logo=bsky&logoColor=white">
